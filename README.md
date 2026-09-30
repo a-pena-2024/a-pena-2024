@@ -3,10 +3,9 @@
   
   <br/>
   
+  <!-- Racha en español -->
   <p align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=a-pena-2024&theme=tokyonight&hide_border=true&card_width=420" alt="GitHub Streak" />
-    </a>
+    <img src="https://streak-stats.demolab.com?user=a-pena-2024&theme=tokyonight&hide_border=true&card_width=450&locale=es" alt="Racha en GitHub" />
   </p>
 </div>
 
@@ -15,8 +14,8 @@
 ### 🚀 Sobre mí
 
 - 🎓 Estudiante de 3.er curso del **Grado en Inteligencia Artificial** en la **Universidad Rey Juan Carlos** (Campus de Móstoles).
-- 💡 Intereses principales: Sistemas Inteligentes, IoT & Inteligencia Ambiental, Machine Learning y Desarrollo de Software.
-- 🛠️ Trabajando activamente en proyectos de microcontroladores (ESP32), arquitecturas de red IoT y visión/ML.
+- 💡 Áreas de interés: Sistemas Inteligentes, IoT & Inteligencia Ambiental, Machine Learning y Desarrollo de Software.
+- 🛠️ Desarrollando proyectos con microcontroladores (ESP32), arquitecturas de red IoT y visión/ML.
 
 ---
 
@@ -24,7 +23,7 @@
 
 <div align="left">
 
-**Lenguajes:**  
+**Lenguajes de programación:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -34,7 +33,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-**Herramientas & Entornos:**  
+**Herramientas y Entornos:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -44,15 +43,14 @@
 
 ---
 
-### 📊 Métricas de GitHub
+### 📊 Estadísticas
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=a-pena-2024&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-pena-2024&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=a-pena-2024&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true" height="165em" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Repositorio mantenido por Alejandro Peña Paz</sub>
+  <sub>Alejandro Peña Paz · Grado en IA · URJC</sub>
 </div>
