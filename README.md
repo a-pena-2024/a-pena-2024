@@ -55,17 +55,15 @@
 
 ---
 
-### 📊 Métricas & Actividad
+---
+
+### 📊 Métricas de GitHub
 
 <div align="center">
-  <!-- Estadísticas generales en español -->
   <img src="https://github-readme-stats.vercel.app/api?username=a-pena-2024&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true&include_all_commits=true" height="175em" />
-  
-  <br/><br/>
-
-  <!-- Gráfica de actividad dinámica semanal -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-pena-2024&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </div>
+
+---
 
 ---
 
