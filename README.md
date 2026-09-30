@@ -32,4 +32,3 @@ Estudiante del Grado en Inteligencia Artificial en la Universidad Rey Juan Carlo
 ### 📫 Contacto
 
 - 🎓 **Universidad:** Universidad Rey Juan Carlos (Campus de Móstoles)
-- 💼 **LinkedIn:** [Tu Perfil](https://www.linkedin.com/in/) *(opcional)*
